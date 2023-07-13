@@ -1,2 +1,4 @@
 DOMAIN-SUFFIX,rfchost.com
 DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,golang.org
