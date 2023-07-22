@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,neodb.social
 DOMAIN-SUFFIX,nhentai.net
+DOMAIN-SUFFIX,v2ex.com
