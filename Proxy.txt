@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,neodb.social
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,istatmenus.app
+DOMAIN-SUFFIX,medium.com
