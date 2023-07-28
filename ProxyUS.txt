@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,grazie.ai
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,intellij.net
+DOMAIN-SUFFIX,toolbox.app
