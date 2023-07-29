@@ -9,3 +9,4 @@ DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,letsbuildthe.cloud
