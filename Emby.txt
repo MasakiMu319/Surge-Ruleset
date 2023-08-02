@@ -11,3 +11,5 @@ DOMAIN-SUFFIX,pilipili.emby77.org
 DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,emby.wiri.tk
 DOMAIN-SUFFIX,public.emby.ws
+DOMAIN-SUFFIX,free.emby.eu.org
+DOMAIN-SUFFIX,9wfree.emby.eu.org
