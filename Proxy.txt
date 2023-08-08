@@ -10,3 +10,5 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,letsbuildthe.cloud
+DOMAIN-SUFFIX,hk.pro.xns.one
+DOMAIN-SUFFIX,xnshk.azurewebsites.net
