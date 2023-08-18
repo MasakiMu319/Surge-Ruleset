@@ -5,6 +5,7 @@ DOMAIN-SUFFIX,pub3.emby.wtf
 DOMAIN-SUFFIX,pub4.emby.wtf
 DOMAIN-SUFFIX,emby.misakaf.org
 DOMAIN-SUFFIX,usa.bili.rip
+DOMAIN-SUFFIX,bili.bili.rip
 DOMAIN-SUFFIX,fuck.nvidia.rip
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,pilipili.emby77.org
