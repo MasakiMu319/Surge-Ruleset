@@ -1,1 +1,1 @@
-DOMAIN-SUFFIX,tt0055.com
+DOMAIN-SET,.tt0055.com
