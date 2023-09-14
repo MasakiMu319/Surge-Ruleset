@@ -4,6 +4,7 @@ DOMAIN-SUFFIX,pub2.emby.wtf
 DOMAIN-SUFFIX,pub3.emby.wtf
 DOMAIN-SUFFIX,pub4.emby.wtf
 DOMAIN-SUFFIX,emby.misakaf.org
+DOMAIN-SUFFIX,emby-misakaf.atomlantis.cloud
 DOMAIN-SUFFIX,usa.bili.rip
 DOMAIN-SUFFIX,bili.bili.rip
 DOMAIN-SUFFIX,kr.bili.rip
