@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,4837.bili.rip
 DOMAIN-SUFFIX,fuck.nvidia.rip
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,pilipili.emby77.org
+DOMAIN-SUFFIX,emby.pilipiliultra.top
 DOMAIN-SUFFIX,ju.dog
 DOMAIN-SUFFIX,emby.wiri.tk
 DOMAIN-SUFFIX,public.emby.ws
