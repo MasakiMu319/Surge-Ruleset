@@ -1,6 +1,6 @@
 # Introduction
 
-This project generates rulesets (DOMAIN-SET, RULE-SET, and PROCESS-NAME) for Surge that can be used by Surge for traffic control and routing management. This project is for personal use only and does not provide any warranty of availability.
+This project generates rulesets (DOMAIN-SET, RULE-SET, and PROCESS-NAME) for Surge which can be utilized for traffic control and routing management. It is intended for personal use only and does not provide any guarantee of availability.
 
 # Description
 - Proxy.txt: Proxy.txt: This serves as a complement to the rule provided in [Loyalsoldier-proxy](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt).
