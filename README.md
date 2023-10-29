@@ -1,3 +1,8 @@
-# 简介
+# Introduction
 
-本项目生成适用于 Surge 的规则集(DOMAIN-SET、RULE-SET 和 PROCESS-NAME),这些规则可用于 Surge 进行流量控制和路由管理。本项目仅供个人使用,不提供任何可用性保证。
+This project generates rulesets (DOMAIN-SET, RULE-SET, and PROCESS-NAME) for Surge that can be used by Surge for traffic control and routing management. This project is for personal use only and does not provide any warranty of availability.
+
+# Description
+- Proxy.txt: Is complementary to the [Loyalsoldierproxy](https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/proxy.txt) rule.
+- ProxyUS.txt: Mainly handle AI services provided by commonly used software (e.g. Arc Max service), and it is recommended that they be unified and shunted to the U.S. node(as of 2023.Oct. 29, this rule will take effect).
+- OptimizeOptions.txt: Deal with bilibili's CDN to avoid the viewing experience caused by bad CDNs such as mcdn (as of 2023.Oct. 29, this rule will take effect).
