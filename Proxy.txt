@@ -15,3 +15,4 @@ DOMAIN-SUFFIX,zimoceng.xyz
 DOMAIN-SUFFIX,91unicorn.club
 DOMAIN-SUFFIX,sesexiaozhan.com
 DOMAIN-SUFFIX,91unicorn.club
+DOMAIN-SUFFIX,macapp.org.cn
