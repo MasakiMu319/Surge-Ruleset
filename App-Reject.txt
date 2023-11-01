@@ -1,3 +1,2 @@
-PROCESS-NAME,/Library/Input Methods/WeType.app/Contents/MacOS/WeType
 PROCESS-NAME,/Applications/PotPlayerX.app/Contents/MacOS/PotPlayerX
 PROCESS-NAME,/Applications/PDF Expert.app/Contents/MacOS/PDF Expert
