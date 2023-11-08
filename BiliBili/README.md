@@ -14,3 +14,7 @@ OptimizeOptions.txt 文件中只包含了 MCDN。就筆者的體驗來說，MCDN
 - upos-hz-mirrorakam.akamaized.net：通常作為海外（臺灣、美國…） CDN。
 - upos-sz-mirroraliov.bilivideo：國內最佳 CDN。
 - cn-hk-eq-*.bilivideo.com：香港 CDN。
+
+# 供參考的資料
+- [能不能搞个B站锁定CDN的方法，防止播放卡顿](https://github.com/bilibili-helper/bilibili-helper-o/issues/713)
+- [话说我宽带网速都有挺好 有 1000M，但为啥用 Chrome 系浏览器看 B 站经常缓冲不过来？](https://v2ex.com/t/830394)
