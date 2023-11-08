@@ -1,3 +1,2 @@
-DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,mcdn.bilivideo.com
 DOMAIN-SUFFIX,mcdn.bilivideo.cn
