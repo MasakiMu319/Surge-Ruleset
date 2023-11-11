@@ -69,3 +69,5 @@ DOMAIN-KEYWORD,gdfs-cc
 DOMAIN-KEYWORD,sh-cc
 DOMAIN-KEYWORD,zjhz-wasu
 DOMAIN-KEYWORD,sh-ix
+DOMAIN-SUFFIX,mcdn.bilivideo.com
+DOMAIN-SUFFIX,mcdn.bilivideo.cn
