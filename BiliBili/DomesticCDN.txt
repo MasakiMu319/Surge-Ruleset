@@ -1,3 +1,10 @@
+# NAME: BiliBili/DomesticCDN
+# AUTHOR: MasakiMu319
+# REPO: https://github.com/MasakiMu319/BiliBili
+# UPDATED: 2023-11-11
+# DOMAIN-KEYWORD: 77
+# DOMAIN-SUFFIX: 2
+# TOTAL: 79
 DOMAIN-KEYWORD,ahwh-ct
 DOMAIN-KEYWORD,cq-ct
 DOMAIN-KEYWORD,gddg-ct
