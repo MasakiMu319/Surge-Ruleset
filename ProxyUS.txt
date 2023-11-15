@@ -1,8 +1,8 @@
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,grazie.ai
-DOMAIN-SUFFIX,jetbrains.com
-DOMAIN-SUFFIX,intellij.net
-DOMAIN-SUFFIX,toolbox.app
-DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
+DOMAIN-SUFFIX,claude.ai,extended-matching
+DOMAIN-SUFFIX,anthropic.com,extended-matching
+DOMAIN-SUFFIX,bard.google.com,extended-matching
+DOMAIN-SUFFIX,grazie.ai,extended-matching
+DOMAIN-SUFFIX,jetbrains.com,extended-matching
+DOMAIN-SUFFIX,intellij.net,extended-matching
+DOMAIN-SUFFIX,toolbox.app,extended-matching
+DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app,extended-matching
