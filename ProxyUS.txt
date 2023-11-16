@@ -1,3 +1,5 @@
+DOMAIN-SUFFIX,oaistatic.com,extended-matching
+DOMAIN-SUFFIX,oaiusercontent.com,extended-matching
 DOMAIN-SUFFIX,claude.ai,extended-matching
 DOMAIN-SUFFIX,anthropic.com,extended-matching
 DOMAIN-SUFFIX,bard.google.com,extended-matching
