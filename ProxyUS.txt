@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,intellij.net
 DOMAIN-SUFFIX,toolbox.app
 DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
+DOMAIN-SUFFIX,perplexity.ai
