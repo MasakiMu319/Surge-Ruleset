@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,9wfree.emby.eu.org
 DOMAIN-SUFFIX,emby-mix.atomlantis.cloud
 DOMAIN-SUFFIX,stream.synn.cc
 DOMAIN-SUFFIX,ntrrr.am.sb
+DOMAIN-SUFFIX,lyrebirdemby.com
