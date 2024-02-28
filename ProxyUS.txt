@@ -10,3 +10,4 @@ DOMAIN-SUFFIX,toolbox.app
 DOMAIN-SUFFIX,open-ai-chat-omega.vercel.app
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,leetcode.com
+DOMAIN-SUFFIX,mistral.ai
