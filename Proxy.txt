@@ -15,3 +15,7 @@ DOMAIN-SUFFIX,91unicorn.club
 DOMAIN-SUFFIX,sesexiaozhan.com
 DOMAIN-SUFFIX,91unicorn.club
 DOMAIN-SUFFIX,macapp.org.cn
+DOMAIN-SUFFIX,app.nloli.xyz
+DOMAIN-SUFFIX,acl.syyn.pw
+DOMAIN-SUFFIX,lb.easay.xyz
+DOMAIN-SUFFIX,911tg3rs.com

@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,mistral.ai
 DOMAIN-SUFFIX,coderprog.com
+DOMAIN-SUFFIX,gitlab.com
+DOMAIN-SUFFIX,kagi.com
+DOMAIN-SUFFIX,hume.ai
