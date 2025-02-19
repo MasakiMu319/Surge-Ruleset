@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,kagi.com
 DOMAIN-SUFFIX,hume.ai
 DOMAIN-SUFFIX,mermaid.live
+DOMAIN-SUFFIX,posthog.com
