@@ -17,3 +17,4 @@ DOMAIN-SUFFIX,kagi.com
 DOMAIN-SUFFIX,hume.ai
 DOMAIN-SUFFIX,mermaid.live
 DOMAIN-SUFFIX,posthog.com
+DOMAIN-SUFFIX,chat.qwenlm.ai
